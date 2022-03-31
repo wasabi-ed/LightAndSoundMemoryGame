@@ -41,8 +41,8 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![Color changing demonstration](http://g.recordit.co/yYRyOL8ito.gif)
-![](gif2-link-here)
-![](gif3-link-here)
+![Following the pattern and updating score](http://g.recordit.co/TdcfTGgIPi.gif)
+![Game changes length and pattern on every iteration](http://g.recordit.co/IO9qr3pOPP.gif)
 ![](gif4-link-here)
 
 ## Reflection Questions
