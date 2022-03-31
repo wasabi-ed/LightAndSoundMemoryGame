@@ -26,9 +26,6 @@ button {
   padding: 10px;
   border-radius:5px;
 }
-#button:hover{
-  background-color: white;
-}
 #gameBtnArea > button {
   width: 200px;
   height: 200px;
@@ -36,6 +33,7 @@ button {
   
 }
 .container{
+  margin-left: 550px;
   display: grid;
   grid-template-columns: 200px 200px;
   grid-column-gap: 10px;
