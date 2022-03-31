@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![Following the pattern and updating score](http://g.recordit.co/Aitn4sQgJg.gif)
-![Game changes length and pattern on every iteration](http://g.recordit.co/IO9qr3pOPP.gif)
+![Game changes length and pattern on every iteration](http://g.recordit.co/jDJcZuW1rm.gif)
 ![Time gets faster on every turn](http://g.recordit.co/l1rjbmuPIc.gif)
 ![](gif4-link-here)
 
